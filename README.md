@@ -59,7 +59,7 @@ This results in the following plot:
 <!--Apparently, GitHub sanitizes inline styles, but the deprecated align
     attribute works.-->
 <div align="center">
-    <img src="https://github.com/OTheDev/pybenchmarker/blob/main/images/example.png"
+    <img src="https://github.com/OTheDev/pybenchmarker/raw/main/images/example.png"
          width="80%" height="80%">
 </div>
 
