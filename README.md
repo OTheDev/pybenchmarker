@@ -64,7 +64,7 @@ This results in the following plot:
 </div>
 
 ## Inspiration
-This project was inspired by [perfplot](https://github.com/nschloe/perfplot),
-which was used to contribute to
+The `BenchmarkN` class was inspired by [perfplot](https://github.com/nschloe/perfplot),
+which was used in
 
 - "[How do I efficiently find which elements of a list are in another list?](https://stackoverflow.com/questions/71990420/how-do-i-efficiently-find-which-elements-of-a-list-are-in-another-list)"
