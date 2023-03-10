@@ -158,7 +158,7 @@ class BenchmarkN:
             return self.key(timings), ret
 
     def _run_size(self, size: int) -> tuple[int, Sequence[int | float]]:
-        # TODO: what if `arg` an iterator? And recursively.
+        # TODO: what if `arg` is an iterator? And recursively.
         arg = self.argfunc(size)
 
         timings = []
